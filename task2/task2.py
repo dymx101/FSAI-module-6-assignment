@@ -10,7 +10,7 @@
 
 number = int(input("Please input a number: "))
 if number > 0:
-    print("{number} is positive.".format(number=number))
+    print("{number} is positive.".format(number = number))
 elif number < 0:
     print("{0} is negative.".format(number))
 else:

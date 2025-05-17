@@ -16,4 +16,4 @@ height = 185.0
 print("Hello, {}!".format(name))
 ageAfterTenYears = age + 10
 print("You will be", ageAfterTenYears, "years old after 10 years.")
-print("Your height is {:.2f} meters".format(height/100))
+print("Your height is {:.2f} meters".format(height / 100))
